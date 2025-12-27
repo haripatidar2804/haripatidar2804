@@ -36,6 +36,12 @@ Building practical projects using Python and web technologies. Interested in bac
 
 ---
 
+### 📊 Language Proficiency
+
+![Language Proficiency Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','Java','JavaScript','HTML/CSS','SQL'],datasets:[{data:[35,25,20,15,5]}]},options:{plugins:{legend:{position:'right'}}}})
+
+---
+
 ### 🤝 Connect
 - LinkedIn: https://www.linkedin.com/in/hariom-patidar-7263b5350/
 - Email: haripatidar2804@gmail.com
