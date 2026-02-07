@@ -14,7 +14,7 @@ Building practical projects using Python and web technologies. Interested in bac
 
 ---
 
-### 🎯 Current Focus
+### 🎯 Current Focus on placement
 - Building full-stack and Python-based projects  
 - Learning backend development and automation  
 - Improving understanding of databases and APIs  
